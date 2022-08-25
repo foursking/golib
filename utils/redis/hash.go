@@ -2,9 +2,10 @@ package redis
 
 import (
 	"errors"
-	"github.com/ZYallers/golib/funcs/arrays"
-	"github.com/ZYallers/golib/utils/json"
 	"strings"
+
+	"github.com/foursking/golib/funcs/arrays"
+	"github.com/foursking/golib/utils/json"
 )
 
 const hashAllFieldKey = "all"

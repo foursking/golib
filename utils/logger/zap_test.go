@@ -1,15 +1,16 @@
 package logger
 
 import (
-	"github.com/spf13/cast"
-	"go.uber.org/zap"
 	"strings"
 	"sync"
 	"testing"
+
+	"github.com/spf13/cast"
+	"go.uber.org/zap"
 )
 
 func Test_Zap_Use(t *testing.T) {
-	SetLoggerDir("/Users/cloud/projects/ZYallers/golib")
+	SetLoggerDir("/Users/cloud/projects/foursking/golib")
 	Use("ddd").Info("1234")
 	var wg sync.WaitGroup
 	for i := 0; i < 100; i++ {

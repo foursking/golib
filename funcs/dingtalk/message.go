@@ -1,8 +1,9 @@
 package dingtalk
 
 import (
-	"github.com/ZYallers/golib/utils/curl"
 	"time"
+
+	"github.com/foursking/golib/utils/curl"
 )
 
 var header = map[string]string{"Content-Type": "application/json;charset=utf-8"}

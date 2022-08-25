@@ -2,7 +2,7 @@ package mysql
 
 import (
 	"fmt"
-	"github.com/ZYallers/golib/types"
+	"github.com/foursking/golib/types"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

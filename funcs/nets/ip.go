@@ -3,8 +3,8 @@ package nets
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ZYallers/golib/utils/curl"
 	"github.com/axgle/mahonia"
+	"github.com/foursking/golib/utils/curl"
 	"net"
 	"strings"
 	"time"

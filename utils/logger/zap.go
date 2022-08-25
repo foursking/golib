@@ -1,8 +1,8 @@
 package logger
 
 import (
-	"github.com/ZYallers/golib/consts"
-	"github.com/ZYallers/golib/funcs/safe"
+	"github.com/foursking/golib/consts"
+	"github.com/foursking/golib/funcs/safe"
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

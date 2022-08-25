@@ -1,7 +1,7 @@
 package curl
 
 import (
-	"github.com/ZYallers/golib/funcs/io"
+	"github.com/foursking/golib/funcs/io"
 	"net/http"
 )
 

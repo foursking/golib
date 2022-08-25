@@ -1,7 +1,7 @@
 package times
 
 import (
-	"github.com/ZYallers/golib/consts"
+	"github.com/foursking/golib/consts"
 	"time"
 )
 

@@ -3,7 +3,7 @@ package mysql
 import (
 	"database/sql"
 	"fmt"
-	"github.com/ZYallers/golib/types"
+	"github.com/foursking/golib/types"
 	"gorm.io/gorm"
 	"sync/atomic"
 	"time"

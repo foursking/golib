@@ -1,7 +1,7 @@
 package files
 
 import (
-	strings2 "github.com/ZYallers/golib/funcs/strings"
+	strings2 "github.com/foursking/golib/funcs/strings"
 	"os"
 	"runtime"
 	"strings"

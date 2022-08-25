@@ -2,10 +2,11 @@ package redis
 
 import (
 	"fmt"
-	"github.com/ZYallers/golib/types"
-	"github.com/go-redis/redis"
 	"sync/atomic"
 	"time"
+
+	"github.com/foursking/golib/types"
+	"github.com/go-redis/redis"
 )
 
 const (

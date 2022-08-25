@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"github.com/ZYallers/golib/utils/json"
+	"github.com/foursking/golib/utils/json"
 	"math/rand"
 	"time"
 )
